@@ -1,4 +1,4 @@
-# 東京都 新型コロナウイルス感染症対策サイト
+# 東京都 新型コロナウイルス感染症対策サイト　です
 
 ![](https://github.com/tokyo-metropolitan-gov/covid19/workflows/production%20deploy/badge.svg)
 
